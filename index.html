@@ -14,9 +14,16 @@
     </head>
     
     <body>
+        <header>
+            
+        </header>
         <h1>
             This is a test.
         </h1>
+        <form name="myForm" action="demo_form.asp" onsubmit="return validateForm()" method="post">
+            Name: <input type="text" name="fname">
+            <input type="submit" value="Submit">
+        </form>
         <p id="message"></p>
         <footer>
             <script type="text/javascript">
