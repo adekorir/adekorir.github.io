@@ -1,3 +1,3 @@
 function greetTheWorld() {
-    document.getElementById("results").innerHTML = "\"Hello world!\" from adekorir";
+    document.getElementById("message").innerHTML = "\"Hello world!\" from adekorir";
 }
