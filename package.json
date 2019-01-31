@@ -4,8 +4,7 @@
   "description": "A portfolio display webpage",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o styles --recursive",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass -w scss/ -o styles --recursive"
   },
   "repository": {
     "type": "git",
