@@ -1,0 +1,23 @@
+{
+  "name": "adekorir.github.io",
+  "version": "1.0.0",
+  "description": "A portfolio display webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adekorir/adekorir.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "github-pages"
+  ],
+  "author": "Adams Korir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adekorir/adekorir.github.io/issues"
+  },
+  "homepage": "https://github.com/adekorir/adekorir.github.io#readme"
+}
