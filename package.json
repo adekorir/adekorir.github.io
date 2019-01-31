@@ -4,6 +4,7 @@
   "description": "A portfolio display webpage",
   "main": "index.js",
   "scripts": {
+    "sass": "node-sass -w scss/ -o styles --recursive",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/adekorir/adekorir.github.io/issues"
   },
-  "homepage": "https://github.com/adekorir/adekorir.github.io#readme"
+  "homepage": "https://github.com/adekorir/adekorir.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
 }
